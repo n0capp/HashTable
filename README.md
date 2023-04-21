@@ -20,7 +20,7 @@ In order to use HashMap
 Unit tests in ```main.cpp``` file!
 
 # Usage example
-```
+```cpp
 #include <iostream>
 #include "hash_map.h"
 
