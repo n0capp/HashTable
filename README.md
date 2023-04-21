@@ -18,3 +18,16 @@ In order to use HashMap
 - include ```hashmap.h``` header
 
 Unit tests in ```main.cpp``` file!
+
+# Usage example
+```
+#include <iostream>
+#include "hash_map.h"
+
+HashMap <int, int> hash_map;
+hash_map[1] = 2;
+hash_map[100000] = 200;
+hash_map.erase(1);
+auto iterator = hash_map.find(100000);
+std::cout << iterator->second << '\n';
+```
