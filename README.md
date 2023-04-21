@@ -16,4 +16,4 @@ Achieved asymptotics:
 In order to use HashMap 
 - clone this repository
 - include ```hashmap.h``` header
-- 
+Unit tests in ```main.cpp``` file!
