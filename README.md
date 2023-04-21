@@ -8,5 +8,7 @@ Achieved asymptotics:
 
 
 # Techniques implemented 
-- Self-written iterators
+- Self-written iterator 
+- User-friendly interface achieved by using templates
+- Selection of different load factors to increase effectiveness
 - 
